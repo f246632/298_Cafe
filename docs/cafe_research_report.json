@@ -1,0 +1,339 @@
+{
+  "research_summary": {
+    "location_verified": true,
+    "actual_address": "Lindenberger Weg 19, 13125 Berlin (Haus 203)",
+    "district": "Buch, Pankow",
+    "location_type": "Hospital campus cafeteria within Immanuel Krankenhaus Berlin-Buch",
+    "research_date": "2025-10-25",
+    "place_id": "ChIJDzvcHQCzqUcRiw9xKhC5rHI"
+  },
+
+  "cafe_identification": {
+    "official_name": "Kati Doernbrack - Cafeteria im Immanuel Krankenhaus",
+    "alternate_names": [
+      "Cafeteria im Immanuel Krankenhaus",
+      "Kati Doernbrack Cafeteria"
+    ],
+    "owner_operator": "Kati Doernbrack",
+    "business_type": "Hospital cafeteria (Schankwirtschaft, Cafe)",
+    "target_audience": "Hospital patients, staff, and visitors"
+  },
+
+  "verified_contact_information": {
+    "phone": "030 94792590",
+    "address": "Lindenberger Weg 19, Haus 203, 13125 Berlin",
+    "postal_code": "13125",
+    "neighborhood": "Berlin-Buch",
+    "borough": "Pankow",
+    "building": "Haus 203 (Rheumatology Clinic building)",
+    "website": "Not found - appears to have no dedicated website",
+    "email": "Not publicly available"
+  },
+
+  "operating_hours": {
+    "status": "Limited information available",
+    "note": "Specific hours for Haus 203 cafeteria not publicly listed",
+    "related_campus_facilities": {
+      "patient_cafeteria_haus_201": {
+        "description": "Coffee, homemade soups and cakes",
+        "hours": "Not specified"
+      }
+    }
+  },
+
+  "social_media_profiles": {
+    "instagram": "Not found",
+    "facebook": "Not found",
+    "tripadvisor": "Not found",
+    "google_maps": "Listed but no reviews accessible",
+    "note": "This hospital cafeteria does not appear to maintain active social media presence"
+  },
+
+  "menu_and_offerings": {
+    "status": "Limited public information",
+    "known_items": [
+      "Coffee and beverages",
+      "Homemade soups",
+      "Homemade cakes",
+      "Basic cafeteria fare for hospital setting"
+    ],
+    "specialties": "Unknown - standard hospital cafeteria offerings",
+    "prices": "Not publicly available",
+    "dietary_options": "Unknown",
+    "note": "As a hospital cafeteria, likely offers practical, affordable meals rather than specialty items"
+  },
+
+  "reviews": {
+    "status": "NO PUBLIC REVIEWS FOUND",
+    "google_reviews": "None accessible",
+    "tripadvisor": "Not listed",
+    "yelp": "Not listed",
+    "other_platforms": "Not found",
+    "explanation": "This is a small hospital cafeteria that does not appear to be reviewed on public platforms. It serves primarily hospital patients and staff rather than general public.",
+    "note": "The Google Maps Place ID provided does not yield accessible reviews, likely due to 403/429 errors or the establishment not being actively reviewed"
+  },
+
+  "unique_features": [
+    "Located within Immanuel Krankenhaus Berlin-Buch, a major hospital complex",
+    "Serves medical campus including rheumatology clinic (Haus 203)",
+    "Part of larger Berlin-Buch medical and research campus",
+    "Provides convenient dining for hospital patients, staff, and visitors",
+    "Intimate, small-scale operation within medical facility"
+  ],
+
+  "campus_context": {
+    "description": "The cafeteria is located within the Immanuel Krankenhaus Berlin-Buch, which is part of the larger Campus Berlin-Buch health and science park",
+    "campus_facilities": {
+      "other_dining_options_nearby": [
+        {
+          "name": "Café Max im Torhaus",
+          "location": "Building A8, Robert-Rössle-Str. 10",
+          "phone": "+49 30 9489 2300",
+          "email": "jens.doerflinger@cafe-max-berlin.de",
+          "website": "https://www.cafe-max-berlin.de/",
+          "hours": {
+            "monday": "Closed",
+            "tuesday": "Closed",
+            "wednesday": "12:00-20:30",
+            "thursday": "12:00-20:30",
+            "friday": "12:00-20:30",
+            "saturday": "12:00-20:30",
+            "sunday": "12:00-19:00"
+          },
+          "description": "Upscale coffeehouse with homemade cakes, ice cream, seasonal dishes",
+          "reviews_summary": "Positive reviews mentioning friendly staff, good food, pleasant garden"
+        },
+        {
+          "name": "Café Max in Max Delbrück Communications Center",
+          "location": "Building C83",
+          "hours": {
+            "monday": "08:00-17:00",
+            "tuesday": "08:00-17:00",
+            "wednesday": "08:00-17:00",
+            "thursday": "08:00-17:00",
+            "friday": "08:00-16:00"
+          }
+        },
+        {
+          "name": "Mensa Campus Berlin-Buch",
+          "operator": "Widynski & Roick (since 2013)",
+          "location": "Building A14",
+          "phone": "+49 30 949 5736",
+          "email": "campus.buch@widynski-roick.de",
+          "hours": {
+            "monday": "11:30-14:00",
+            "tuesday": "11:30-14:00",
+            "wednesday": "11:30-14:00",
+            "thursday": "11:30-14:00",
+            "friday": "11:30-13:30"
+          },
+          "description": "German and international cuisine, vegan and vegetarian options, salad bar",
+          "certifications": "JOB&FIT-certified (German Nutrition Society standards)",
+          "reviews": "7 tips from 37 visitors on Foursquare, mentions cheap and tasty pasta"
+        },
+        {
+          "name": "Helios Klinikum Berlin-Buch Cafeteria",
+          "location": "Main building, Helios Klinikum",
+          "hours": {
+            "monday_friday": "08:00-16:30 (kiosk 07:00-17:30)",
+            "saturday_sunday": "10:00-16:00 (kiosk 09:00-16:30)"
+          },
+          "description": "Warm cuisine, Berlin specialties, salads, sandwiches, coffee and cake",
+          "additional": "Burger Ambulanz food truck Mon-Fri 11:00-15:00"
+        }
+      ]
+    }
+  },
+
+  "competitor_analysis": {
+    "note": "Since this is a hospital cafeteria, traditional cafe competitors are not directly comparable. However, here are notable Berlin Pankow cafes for design and service inspiration",
+    "berlin_pankow_cafes": [
+      {
+        "name": "Blaffke Kaffeebar und Rösterei",
+        "location": "Florastraße 37, Berlin-Pankow",
+        "website": "https://blaffke.de/",
+        "opened": "April 2023",
+        "specialty": "Own-roasted coffee, handmade cakes",
+        "design_inspiration": {
+          "style": "Minimal, modern, technical aesthetic",
+          "color_scheme": "Neutral palette (off-white #f9f9f9, near-black #121212, accent green #129f3f)",
+          "typography": "Inconsolata monospace font (modern, technical)",
+          "layout": "Grid-based, sticky header, modular sections",
+          "key_features": [
+            "Sharp edges (0px border radius)",
+            "Minimal shadows",
+            "Generous spacing",
+            "Mobile-responsive",
+            "Social media integration"
+          ]
+        }
+      },
+      {
+        "name": "Bonanza Coffee Roasters",
+        "locations": "Multiple locations in Berlin including Pankow area",
+        "website": "https://bonanzacoffee.de/",
+        "established": "2006",
+        "specialty": "Artisan coffee roasting, Michelin-star restaurant supplier",
+        "design_inspiration": {
+          "style": "Contemporary, sophisticated, minimalist",
+          "color_scheme": "Neutral tones (off-white #fafafa, dark #0a0a0a, sage green #293e3a, warm beige #dcdbc8)",
+          "typography": "Fraunces serif (headings), Inter sans-serif (body)",
+          "layout": "Clean e-commerce, single-column responsive",
+          "interior_design": "Dutch firm Modiste - stone, steel, timber; futurist-inspired",
+          "key_features": [
+            "Product-focused layout",
+            "Dark mode support",
+            "Hover effects and transitions",
+            "Mobile-first design",
+            "Strong brand identity"
+          ]
+        }
+      },
+      {
+        "name": "Kiez Kaffee Kraft",
+        "locations": "Schivelbeiner Str. 23 (Prenzlauer Berg), Breite Str. 35 (Pankow)",
+        "website": "https://www.kiezkaffeekraft.de/",
+        "phone": "01577 1462102",
+        "established": "2014 (originally Café KRAFT)",
+        "specialty": "Specialty coffee, homemade cakes, breakfast/brunch",
+        "design_inspiration": {
+          "style": "Minimalist, neighborhood cafe aesthetic",
+          "color_scheme": "White/black with yellow/gold accents (RGB 242,211,33)",
+          "typography": "Assistant font family",
+          "layout": "Grid-based, vertical content flow",
+          "key_features": [
+            "Flat design (no shadows/borders)",
+            "Country/region selector",
+            "Newsletter integration",
+            "Catering and office coffee services highlighted",
+            "YouTube embeds"
+          ]
+        }
+      }
+    ]
+  },
+
+  "website_design_recommendations": {
+    "overall_strategy": "Given this is a small hospital cafeteria, a simple, functional website or Google Business Profile would be most appropriate",
+    "key_design_elements": [
+      "Clean, minimal design reflecting medical environment",
+      "Clear display of hours and contact information",
+      "Simple menu with daily specials",
+      "Mobile-friendly (many visitors using phones)",
+      "Easy navigation for elderly visitors",
+      "High contrast for accessibility",
+      "Photos of food and space to build trust"
+    ],
+    "color_scheme_suggestions": [
+      "Clean whites and light grays (clinical but welcoming)",
+      "Warm accent colors (orange, yellow, green) for hospitality",
+      "Avoid sterile all-white (too clinical)",
+      "Consider calming blues or greens (healthcare context)"
+    ],
+    "essential_pages": [
+      "Home (hours, location, contact)",
+      "Menu (daily specials, prices)",
+      "About (who runs it, philosophy)",
+      "Contact (phone, location, directions)"
+    ],
+    "inspiration_sources": [
+      "Blaffke: Minimal, technical aesthetic with grid layout",
+      "Bonanza: Sophisticated color palette and typography",
+      "Kiez Kaffee Kraft: Friendly neighborhood cafe approach",
+      "Hospital cafeteria designs: Functional, accessible, welcoming"
+    ]
+  },
+
+  "research_limitations": {
+    "challenges_encountered": [
+      "No public reviews found on major platforms",
+      "Limited online presence (no website, social media)",
+      "Google Maps access blocked (403/429 errors)",
+      "Specific operating hours not publicly listed",
+      "Menu and pricing information unavailable",
+      "No accessible customer testimonials"
+    ],
+    "data_quality": "Medium - verified basic information through business directories and hospital website, but detailed operational information is limited",
+    "recommendations_for_client": [
+      "Contact cafeteria directly at 030 94792590 for menu and hours",
+      "Visit in person to photograph space and offerings",
+      "Interview operator Kati Doernbrack for history and specialties",
+      "Consider this may need to be a simple landing page rather than full website",
+      "Focus on Google Business Profile optimization",
+      "Gather patient/staff testimonials directly"
+    ]
+  },
+
+  "alternative_interpretation": {
+    "possibility": "The Google Maps Place ID may reference the broader Immanuel Krankenhaus campus or a different cafe on campus",
+    "nearest_reviewed_cafe": {
+      "name": "Café Max",
+      "distance": "Within same Berlin-Buch campus",
+      "reviews": "Positive reviews available on TripAdvisor",
+      "recommendation": "Client should verify if they meant Café Max instead of the Haus 203 cafeteria"
+    }
+  },
+
+  "next_steps_for_development": [
+    "Confirm with client which establishment they want website for (Haus 203 cafeteria vs Café Max)",
+    "If Haus 203 cafeteria: Plan site visit to gather photos, menu, hours, testimonials",
+    "If Café Max: They already have https://www.cafe-max-berlin.de/ - may need redesign",
+    "Determine scope: Full website vs Google Business Profile optimization",
+    "Gather content: photos, menu items, story, contact details",
+    "Interview operator about target audience and goals",
+    "Assess competition and positioning strategy",
+    "Plan information architecture based on user needs"
+  ],
+
+  "design_inspiration_websites": [
+    {
+      "name": "Blaffke Kaffeebar",
+      "url": "https://blaffke.de/",
+      "strengths": "Minimal design, clear navigation, good product showcase",
+      "applicable_elements": "Grid layout, neutral colors, mobile-responsive structure"
+    },
+    {
+      "name": "Bonanza Coffee",
+      "url": "https://bonanzacoffee.de/",
+      "strengths": "Sophisticated branding, excellent typography, e-commerce integration",
+      "applicable_elements": "Color palette, font pairing, product cards, dark mode"
+    },
+    {
+      "name": "Kiez Kaffee Kraft",
+      "url": "https://www.kiezkaffeekraft.de/",
+      "strengths": "Neighborhood friendliness, service highlighting, simple navigation",
+      "applicable_elements": "Flat design, accent colors, service pages, newsletter signup"
+    }
+  ],
+
+  "berlin_cafe_market_context": {
+    "pankow_cafe_scene": "Vibrant specialty coffee culture with focus on quality, sustainability, and community",
+    "trends_2024_2025": [
+      "Specialty coffee roasting",
+      "Homemade cakes and pastries",
+      "Vegan and vegetarian options",
+      "Laptop-friendly workspaces",
+      "Instagram-worthy interiors",
+      "Fair trade and organic ingredients",
+      "Minimalist Scandinavian-inspired design",
+      "Community gathering spaces"
+    ],
+    "hospital_cafeteria_context": "Different market - focus on affordability, convenience, comfort for patients and families rather than trendy coffee culture"
+  },
+
+  "technical_notes": {
+    "research_methodology": "Web searches, directory lookups, website analysis, competitor research",
+    "sources_consulted": [
+      "Google Maps (attempted)",
+      "Business directories (meinestadt.de, cafesde.com)",
+      "Hospital websites (berlin.immanuel.de)",
+      "Campus Berlin-Buch official site",
+      "TripAdvisor",
+      "Foursquare",
+      "European Coffee Trip",
+      "Restaurant Guru"
+    ],
+    "api_limitations": "Google Maps direct access blocked, TripAdvisor scraping prevented",
+    "verification_status": "Basic information verified through multiple sources; detailed operational data unavailable"
+  }
+}

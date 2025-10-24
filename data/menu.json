@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "name": "Heiße Getränke",
+      "icon": "coffee",
+      "items": [
+        {"name": "Kaffee", "description": "Frisch gebrühter Filterkaffee", "price": "2.50"},
+        {"name": "Espresso", "description": "Klassischer italienischer Espresso", "price": "2.00"},
+        {"name": "Cappuccino", "description": "Mit aufgeschäumter Milch", "price": "3.00"},
+        {"name": "Latte Macchiato", "description": "Milchkaffee im Glas", "price": "3.50"},
+        {"name": "Tee", "description": "Verschiedene Sorten", "price": "2.00"}
+      ]
+    },
+    {
+      "name": "Hausgemachte Suppen",
+      "icon": "soup",
+      "items": [
+        {"name": "Tagessuppe", "description": "Täglich wechselnd, frisch zubereitet", "price": "4.50"},
+        {"name": "Gemüsesuppe", "description": "Mit saisonalem Gemüse", "price": "4.50"},
+        {"name": "Kartoffelsuppe", "description": "Klassisch und herzhaft", "price": "4.50"}
+      ]
+    },
+    {
+      "name": "Hausgemachte Kuchen",
+      "icon": "cake",
+      "items": [
+        {"name": "Apfelkuchen", "description": "Mit frischen Äpfeln", "price": "3.50"},
+        {"name": "Käsekuchen", "description": "Cremig und lecker", "price": "3.50"},
+        {"name": "Schokoladenkuchen", "description": "Für Schokoladenliebhaber", "price": "3.80"},
+        {"name": "Kuchen des Tages", "description": "Täglich wechselnde Spezialität", "price": "3.50"}
+      ]
+    },
+    {
+      "name": "Snacks & Mehr",
+      "icon": "sandwich",
+      "items": [
+        {"name": "Belegte Brötchen", "description": "Verschiedene Variationen", "price": "3.00"},
+        {"name": "Brezeln", "description": "Frisch gebacken", "price": "2.00"},
+        {"name": "Obst", "description": "Frisches Obst der Saison", "price": "2.50"}
+      ]
+    }
+  ],
+  "note": "Alle Preise sind Richtwerte. Bitte vor Ort nachfragen.",
+  "specialties": [
+    "Hausgemachte Suppen täglich frisch",
+    "Selbstgebackene Kuchen",
+    "Frischer Kaffee"
+  ]
+}

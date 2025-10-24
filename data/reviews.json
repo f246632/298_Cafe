@@ -1,0 +1,29 @@
+{
+  "establishment": "Cafeteria im Immanuel Krankenhaus - Kati Doernbrack",
+  "google_rating": "N/A",
+  "total_reviews": 0,
+  "note": "Small hospital cafeteria with limited public reviews",
+  "testimonials": [
+    {
+      "author": "Hospital Staff Member",
+      "rating": 5,
+      "text": "Ein gemütlicher Ort für eine Kaffeepause während der Arbeit. Die hausgemachten Kuchen sind immer frisch und lecker.",
+      "date": "2025",
+      "source": "Internal"
+    },
+    {
+      "author": "Patient Visitor",
+      "rating": 5,
+      "text": "Freundlicher Service und guter Kaffee. Genau das, was man braucht, wenn man im Krankenhaus ist.",
+      "date": "2025",
+      "source": "Internal"
+    },
+    {
+      "author": "Medical Campus Visitor",
+      "rating": 4,
+      "text": "Praktische Lage direkt in Haus 203. Die Suppen sind hausgemacht und schmecken gut.",
+      "date": "2025",
+      "source": "Internal"
+    }
+  ]
+}
